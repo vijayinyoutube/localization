@@ -28,7 +28,7 @@ Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 
 ## Sample Results
 
-Results | #1 | #2 |
+Languages | English | Tamil |
 --- | --- | --- |
 Images | <img src="https://user-images.githubusercontent.com/58719230/99151490-924d1180-26c1-11eb-85a4-aa6efd2a89ce.png" > | <img src="https://user-images.githubusercontent.com/58719230/99151496-9a0cb600-26c1-11eb-8075-7b3deacb908b.png"> |
 
